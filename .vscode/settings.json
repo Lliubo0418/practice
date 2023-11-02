@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "unistd.h": "c",
+        "dirent.h": "c",
+        "stdlib.h": "c",
+        "cstdlib": "c",
+        "pthread.h": "c",
+        "stdio.h": "c",
+        "fcntl.h": "c",
+        "123.C": "cpp",
+        "string.h": "c",
+        "gateway123.C": "cpp",
+        "limits": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
